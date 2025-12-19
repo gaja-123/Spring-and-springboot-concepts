@@ -2,6 +2,7 @@ package com.gajacode.springboot.democrud.rest;
 
 import com.gajacode.springboot.democrud.dao.EmployeeDAO;
 import com.gajacode.springboot.democrud.entity.Employee;
+import com.gajacode.springboot.democrud.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -13,18 +14,18 @@ import java.util.List;
 @RequestMapping("/api")
 public class EmployeeRestController {
 
-    private EmployeeDAO theemployeeDAO;
+    private EmployeeService employeeService;
 
-    // constructor inject the dao
-    @Autowired
-    public EmployeeRestController(EmployeeDAO theemployeeDAO) {
-        this.theemployeeDAO = theemployeeDAO;
+    // constructor inject the service
+
+
+    public EmployeeRestController(EmployeeService employeeService) {
+        this.employeeService = employeeService;
     }
-
 
     // setup the endpoint for the finaAll method of the DAO
     @GetMapping("/employees")
     public List<Employee> getAllEmployee(){
-        return theemployeeDAO.getAll();
+        return employeeService.findALL();
     }
 }
