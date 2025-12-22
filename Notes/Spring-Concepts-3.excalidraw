@@ -1,0 +1,1796 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "YOTPGoxgUwxJVmiwl6qyn",
+      "type": "rectangle",
+      "x": 248,
+      "y": 175.1999969482422,
+      "width": 196,
+      "height": 239.1999969482422,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 116661497,
+      "version": 66,
+      "versionNonce": 345100087,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "DvaloarboMkJ9S6RPD1yy"
+        },
+        {
+          "id": "MuZ3LTp7yqgfGobTTLMxi",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766362966964,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "DvaloarboMkJ9S6RPD1yy",
+      "type": "text",
+      "x": 272.8500518798828,
+      "y": 182.29999542236328,
+      "width": 146.29989624023438,
+      "height": 225,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 2071711417,
+      "version": 120,
+      "versionNonce": 593685591,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766362961573,
+      "link": null,
+      "locked": false,
+      "text": "1.Hibernate\n2.JPA\n3.DS config.\n4.Process\n3.DAO,EM,DS\n4.DAO,APP\n5.CRUD\n6.create DB ->\njava code",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "YOTPGoxgUwxJVmiwl6qyn",
+      "originalText": "1.Hibernate\n2.JPA\n3.DS config.\n4.Process\n3.DAO,EM,DS\n4.DAO,APP\n5.CRUD\n6.create DB -> java code",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "MuZ3LTp7yqgfGobTTLMxi",
+      "type": "arrow",
+      "x": 448.5972891287909,
+      "y": 265.9498368863059,
+      "width": 165.37812678268807,
+      "height": 14.399800730907458,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1396114071,
+      "version": 185,
+      "versionNonce": 846272279,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363126316,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          165.37812678268807,
+          -14.399800730907458
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "YOTPGoxgUwxJVmiwl6qyn",
+        "focus": -0.15564744500756209,
+        "gap": 7.20001220703125
+      },
+      "endBinding": {
+        "elementId": "kTF2XrSv8bIkT4Vyx0TQF",
+        "focus": 0.24290050723425022,
+        "gap": 1.400054931640625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "kTF2XrSv8bIkT4Vyx0TQF",
+      "type": "rectangle",
+      "x": 615.0000610351562,
+      "y": 136.1999969482422,
+      "width": 299.20007324218756,
+      "height": 310,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1431585945,
+      "version": 213,
+      "versionNonce": 1877618937,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "NSDb0i_4M5YDrOxXIm0Ko"
+        },
+        {
+          "id": "MuZ3LTp7yqgfGobTTLMxi",
+          "type": "arrow"
+        },
+        {
+          "id": "eFz-qWLz7BpA1cq93ZI-Q",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766363202583,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "NSDb0i_4M5YDrOxXIm0Ko",
+      "type": "text",
+      "x": 620.210205078125,
+      "y": 141.1999969482422,
+      "width": 288.77978515625,
+      "height": 300,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": null,
+      "seed": 1873816217,
+      "version": 393,
+      "versionNonce": 5265369,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363208307,
+      "link": null,
+      "locked": false,
+      "text": "1. Hibernate -> A framework\nfor Saving or Persisting Java\nobject to Table. => i.e. ORM\n(object-to relational Mapping)\n\n2.JPA(Jakarta Persistance\nAPI / Java Persistance API)\n-> is an interface for ORM\n=> implemenation by vendor\nlike Hibernate,Eclipse,etc =>\nwhy? support CRUD\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "kTF2XrSv8bIkT4Vyx0TQF",
+      "originalText": "1. Hibernate -> A framework for Saving or Persisting Java object to Table. => i.e. ORM (object-to relational Mapping)\n\n2.JPA(Jakarta Persistance API / Java Persistance API) -> is an interface for ORM => implemenation by vendor like Hibernate,Eclipse,etc => why? support CRUD\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "eFz-qWLz7BpA1cq93ZI-Q",
+      "type": "arrow",
+      "x": 737,
+      "y": 425.6000061035156,
+      "width": 0.800018310546875,
+      "height": 100.80001831054688,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 436058743,
+      "version": 76,
+      "versionNonce": 2020729241,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363147707,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.800018310546875,
+          100.80001831054688
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "kTF2XrSv8bIkT4Vyx0TQF",
+        "focus": 0.19084325331712287,
+        "gap": 4.4000091552734375
+      },
+      "endBinding": {
+        "elementId": "spESKuPtMML7AUKScFq5P",
+        "focus": -0.03153682223447934,
+        "gap": 4.799957275390625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "spESKuPtMML7AUKScFq5P",
+      "type": "rectangle",
+      "x": 626.6000061035156,
+      "y": 531.1999816894531,
+      "width": 231.99996948242188,
+      "height": 410,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 719274905,
+      "version": 167,
+      "versionNonce": 1942950903,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "eFz-qWLz7BpA1cq93ZI-Q",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "gio0p4FUH_hLDauSjoCdY"
+        },
+        {
+          "id": "51TUXnzUwCmBXj_Jy4MMC",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766363521810,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "gio0p4FUH_hLDauSjoCdY",
+      "type": "text",
+      "x": 634.2200927734375,
+      "y": 536.1999816894531,
+      "width": 216.75979614257812,
+      "height": 400,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": null,
+      "seed": 1096224601,
+      "version": 321,
+      "versionNonce": 293221881,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363371534,
+      "link": null,
+      "locked": false,
+      "text": "DataSource Config. ->\n\n1.Based on a. pom\nfile(mysqldriver,springd\natajpa) b.DB\nconnection info. from\nApplication.properties.\n2.Default Hibernate is\nimplemeted for JPA in\nspring boot.\n3.Spring boot\nautomatically create\nbeans for\nDatascource,Entity\nmanager then inject\nthem.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "spESKuPtMML7AUKScFq5P",
+      "originalText": "DataSource Config. ->\n\n1.Based on a. pom file(mysqldriver,springdatajpa) b.DB connection info. from Application.properties.\n2.Default Hibernate is implemeted for JPA in spring boot.\n3.Spring boot automatically create beans for Datascource,Entity manager then inject them.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Wc7j3JMSmW0bqyBoVE58Q",
+      "type": "rectangle",
+      "x": 175.19998168945312,
+      "y": 482.40000915527344,
+      "width": 52,
+      "height": 54.399993896484375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 176024729,
+      "version": 157,
+      "versionNonce": 550012119,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "2WrUflvbwtGbFGwxwC9iZ"
+        },
+        {
+          "id": "_er-lp4xTIijSZWnNOToZ",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766363451215,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "2WrUflvbwtGbFGwxwC9iZ",
+      "type": "text",
+      "x": 180.47999572753906,
+      "y": 497.1000061035156,
+      "width": 41.439971923828125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8V",
+      "roundness": null,
+      "seed": 1053344183,
+      "version": 83,
+      "versionNonce": 265131799,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363445973,
+      "link": null,
+      "locked": false,
+      "text": "APP",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "Wc7j3JMSmW0bqyBoVE58Q",
+      "originalText": "APP",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "v7yAL-lzoh9MeNxJV525N",
+      "type": "rectangle",
+      "x": 270.4000244140625,
+      "y": 484.8000183105469,
+      "width": 60,
+      "height": 52.79998779296875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1263240535,
+      "version": 167,
+      "versionNonce": 283238071,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "v4S8h0uJTvj5NLGgXJ9ss"
+        },
+        {
+          "id": "_er-lp4xTIijSZWnNOToZ",
+          "type": "arrow"
+        },
+        {
+          "id": "RRv7Qbmm-ayjldhC2sG9F",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766363462485,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "v4S8h0uJTvj5NLGgXJ9ss",
+      "type": "text",
+      "x": 278.67003631591797,
+      "y": 498.70001220703125,
+      "width": 43.45997619628906,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9V",
+      "roundness": null,
+      "seed": 1382212441,
+      "version": 10,
+      "versionNonce": 842664695,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363426257,
+      "link": null,
+      "locked": false,
+      "text": "DAO",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "v7yAL-lzoh9MeNxJV525N",
+      "originalText": "DAO",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "s02dbu1wdEbmFSxWZ0h4D",
+      "type": "rectangle",
+      "x": 386.39996337890625,
+      "y": 487.20001220703125,
+      "width": 62.4000244140625,
+      "height": 51.19999694824219,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1147651959,
+      "version": 149,
+      "versionNonce": 1660795449,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "KKppfdrWhCO6QJ2VL3pwP"
+        },
+        {
+          "id": "RRv7Qbmm-ayjldhC2sG9F",
+          "type": "arrow"
+        },
+        {
+          "id": "I5WopdusXFYQ3zOmnWOqv",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766363467258,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "KKppfdrWhCO6QJ2VL3pwP",
+      "type": "text",
+      "x": 402.86997985839844,
+      "y": 500.30001068115234,
+      "width": 29.459991455078125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aB",
+      "roundness": null,
+      "seed": 1135801271,
+      "version": 6,
+      "versionNonce": 2091734903,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363429031,
+      "link": null,
+      "locked": false,
+      "text": "EM",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "s02dbu1wdEbmFSxWZ0h4D",
+      "originalText": "EM",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "QFceX7ZVvHkgEcyn3AbPl",
+      "type": "rectangle",
+      "x": 480,
+      "y": 496,
+      "width": 48,
+      "height": 52.800018310546875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aC",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1338697817,
+      "version": 43,
+      "versionNonce": 1335387289,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "sx5RA9zSoagEBa2mFMONs"
+        },
+        {
+          "id": "I5WopdusXFYQ3zOmnWOqv",
+          "type": "arrow"
+        },
+        {
+          "id": "_JpRhuHjoRr3xS_2pjD_x",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766363472465,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "sx5RA9zSoagEBa2mFMONs",
+      "type": "text",
+      "x": 489.9800109863281,
+      "y": 509.90000915527344,
+      "width": 28.03997802734375,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aD",
+      "roundness": null,
+      "seed": 1343111065,
+      "version": 4,
+      "versionNonce": 756624153,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363435697,
+      "link": null,
+      "locked": false,
+      "text": "DS",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "QFceX7ZVvHkgEcyn3AbPl",
+      "originalText": "DS",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "6Z6afXW-MMlFwUFFA1SJD",
+      "type": "rectangle",
+      "x": 511.20001220703125,
+      "y": 578.3999938964844,
+      "width": 36,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aE",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14285017,
+      "version": 39,
+      "versionNonce": 754504281,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "6H8riGWGh0X05EGtHTB1a"
+        },
+        {
+          "id": "_JpRhuHjoRr3xS_2pjD_x",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766363472465,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "6H8riGWGh0X05EGtHTB1a",
+      "type": "text",
+      "x": 521.400016784668,
+      "y": 583.3999938964844,
+      "width": 15.599990844726562,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aF",
+      "roundness": null,
+      "seed": 1205727833,
+      "version": 5,
+      "versionNonce": 963943321,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363442456,
+      "link": null,
+      "locked": false,
+      "text": "D\nB",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "6Z6afXW-MMlFwUFFA1SJD",
+      "originalText": "DB",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "_er-lp4xTIijSZWnNOToZ",
+      "type": "arrow",
+      "x": 223.20001220703125,
+      "y": 508.8000030517578,
+      "width": 51.199981689453125,
+      "height": 3.1999969482421875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aG",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1513596601,
+      "version": 56,
+      "versionNonce": 556782071,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363451215,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          51.199981689453125,
+          -3.1999969482421875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Wc7j3JMSmW0bqyBoVE58Q",
+        "focus": 0.0199478964864772,
+        "gap": 3.999969482421875
+      },
+      "endBinding": {
+        "elementId": "v7yAL-lzoh9MeNxJV525N",
+        "focus": 0.25552639743482986,
+        "gap": 3.999969482421875
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "RRv7Qbmm-ayjldhC2sG9F",
+      "type": "arrow",
+      "x": 332.8000183105469,
+      "y": 504.8000030517578,
+      "width": 52.79998779296875,
+      "height": 2.399993896484375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aH",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1771668153,
+      "version": 38,
+      "versionNonce": 1556279255,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363462485,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          52.79998779296875,
+          2.399993896484375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "v7yAL-lzoh9MeNxJV525N",
+        "focus": -0.28356283259523957,
+        "gap": 2.399993896484375
+      },
+      "endBinding": {
+        "elementId": "s02dbu1wdEbmFSxWZ0h4D",
+        "focus": 0.15343274052610725,
+        "gap": 1
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "I5WopdusXFYQ3zOmnWOqv",
+      "type": "arrow",
+      "x": 449.60003662109375,
+      "y": 512.8000030517578,
+      "width": 25.5999755859375,
+      "height": 1.600006103515625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aI",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 985803481,
+      "version": 25,
+      "versionNonce": 1536953113,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363467258,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          25.5999755859375,
+          1.600006103515625
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "s02dbu1wdEbmFSxWZ0h4D",
+        "focus": -0.07259602037119213,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "QFceX7ZVvHkgEcyn3AbPl",
+        "focus": 0.22222181203974123,
+        "gap": 4.79998779296875
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "_JpRhuHjoRr3xS_2pjD_x",
+      "type": "arrow",
+      "x": 505.60003662109375,
+      "y": 550.3999938964844,
+      "width": 18.39996337890625,
+      "height": 32.800018310546875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aJ",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 265583927,
+      "version": 34,
+      "versionNonce": 137521529,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363472465,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          18.39996337890625,
+          32.800018310546875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "QFceX7ZVvHkgEcyn3AbPl",
+        "focus": 0.36349735563826957,
+        "gap": 1.5999755859375
+      },
+      "endBinding": {
+        "elementId": "6Z6afXW-MMlFwUFFA1SJD",
+        "focus": 0.2565812692151382,
+        "gap": 4.800018310546875
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "0G0A48ECxT6uuJwquBGMd",
+      "type": "rectangle",
+      "x": 160,
+      "y": 435.1999969482422,
+      "width": 416,
+      "height": 291.1999969482422,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dotted",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aK",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1743310873,
+      "version": 80,
+      "versionNonce": 9918199,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363480111,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "51TUXnzUwCmBXj_Jy4MMC",
+      "type": "arrow",
+      "x": 856.6000061035156,
+      "y": 549.8000183105469,
+      "width": 147.20001220703125,
+      "height": 225.60002899169922,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aL",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1956090073,
+      "version": 98,
+      "versionNonce": 1593176919,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766363534407,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          147.20001220703125,
+          -225.60002899169922
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "spESKuPtMML7AUKScFq5P",
+        "focus": -0.030520041731302253,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "p3LH-oB-yfL9-eCz-lhSq",
+        "focus": 0.45067588571654593,
+        "gap": 7.199981689453125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "p3LH-oB-yfL9-eCz-lhSq",
+      "type": "rectangle",
+      "x": 1011,
+      "y": 118.80000305175781,
+      "width": 259.20001220703125,
+      "height": 1060,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aM",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1302847673,
+      "version": 199,
+      "versionNonce": 1162137145,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "51TUXnzUwCmBXj_Jy4MMC",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "NLed0Xp_aY7jhDkadskOl"
+        },
+        {
+          "id": "zeBW5nEW4M4iz6ewEWc1N",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766364117220,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "NLed0Xp_aY7jhDkadskOl",
+      "type": "text",
+      "x": 1018.1600799560547,
+      "y": 123.80000305175781,
+      "width": 244.87985229492188,
+      "height": 1050,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aN",
+      "roundness": null,
+      "seed": 217336215,
+      "version": 819,
+      "versionNonce": 1392760567,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766364107231,
+      "link": null,
+      "locked": false,
+      "text": "JPA Development\nProcess - Annotation :\n\n1. 2 Main things : a.\nAnnoate the Java Class/\nEntity Class b.Develop\nJava Code for CRUD\noperation ( DAO\ninterface, DAO\nimplementation(inject\nEntity Manager) ,Update\nMain APP)\n\n2.Annoate Java/Entity\nClass -> use\n@Entity,@Table(name=''),\n@Column(name=''),@ID(pri\nmary\nkey),@GeneratedValue(st\nartegy=..).\n\n3.DAO interface(\nDataAccessObject) ->\nfor interface with DB [\nonly method names by\nus]\n\n4.DAO implementation ->\na. Constructor injection\nof the Entity Manager b.\nImplement the methods\n\n5.Use @Transcational\nover DAO methods ,\nwhich modify DB.\n\n6.Use @Repository over\nDAO class\n\n7.Update Main App using\nthe @Bean to inject the\nDAO to it.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "p3LH-oB-yfL9-eCz-lhSq",
+      "originalText": "JPA Development Process - Annotation :\n\n1. 2 Main things : a. Annoate the Java Class/ Entity Class b.Develop Java Code for CRUD operation ( DAO interface, DAO implementation(inject Entity Manager) ,Update Main APP)\n\n2.Annoate Java/Entity Class -> use @Entity,@Table(name=''),@Column(name=''),@ID(primary key),@GeneratedValue(startegy=..).\n\n3.DAO interface( DataAccessObject) -> for interface with DB [ only method names by us]\n\n4.DAO implementation -> a. Constructor injection of the Entity Manager b. Implement the methods\n\n5.Use @Transcational over DAO methods , which modify DB.\n\n6.Use @Repository over DAO class\n\n7.Update Main App using the @Bean to inject the DAO to it.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "zeBW5nEW4M4iz6ewEWc1N",
+      "type": "arrow",
+      "x": 1268,
+      "y": 214,
+      "width": 114.4000244140625,
+      "height": 40.80000305175781,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aO",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1884669239,
+      "version": 119,
+      "versionNonce": 140455641,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766364124322,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          114.4000244140625,
+          40.80000305175781
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "p3LH-oB-yfL9-eCz-lhSq",
+        "focus": -0.833423945366667,
+        "gap": 2.20001220703125
+      },
+      "endBinding": {
+        "elementId": "HDXT7yZqanxDph5ZZbUCK",
+        "focus": -0.06092477579007054,
+        "gap": 7.20001220703125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "HDXT7yZqanxDph5ZZbUCK",
+      "type": "rectangle",
+      "x": 1389.6000366210938,
+      "y": 187.60000610351562,
+      "width": 260,
+      "height": 410,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aP",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 391068407,
+      "version": 106,
+      "versionNonce": 1420513335,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "zeBW5nEW4M4iz6ewEWc1N",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "KVmpdniD3F7ZFSoxO8c8n"
+        },
+        {
+          "id": "A1O1fz-4212znBeke14FF",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766364338689,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "KVmpdniD3F7ZFSoxO8c8n",
+      "type": "text",
+      "x": 1402.7001113891602,
+      "y": 192.60000610351562,
+      "width": 233.7998504638672,
+      "height": 400,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aQ",
+      "roundness": null,
+      "seed": 566365337,
+      "version": 348,
+      "versionNonce": 717122585,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766364283926,
+      "link": null,
+      "locked": false,
+      "text": "JPA Repository V/s\nEntity Manager\n\n1. Entity Manager -> is\nMain JPA component for\nCRUD .e.g.\npersist,remove,merge,etc\n2.EM -> is with helper\ncomponent Data Source\nfor DB connection.\n\n3. It supports low level\nSQL coding . But JPA\nRepository generally\nSupports high level SQL\ncoding.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "HDXT7yZqanxDph5ZZbUCK",
+      "originalText": "JPA Repository V/s Entity Manager\n\n1. Entity Manager -> is Main JPA component for CRUD .e.g. persist,remove,merge,etc\n2.EM -> is with helper component Data Source for DB connection.\n\n3. It supports low level SQL coding . But JPA Repository generally Supports high level SQL coding.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "A1O1fz-4212znBeke14FF",
+      "type": "arrow",
+      "x": 1654,
+      "y": 323.8000030517578,
+      "width": 116,
+      "height": 50.399993896484375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aR",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 887290329,
+      "version": 90,
+      "versionNonce": 1716534807,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766364346391,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          116,
+          50.399993896484375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "HDXT7yZqanxDph5ZZbUCK",
+        "focus": -0.4864353842131763,
+        "gap": 4.39996337890625
+      },
+      "endBinding": {
+        "elementId": "4ZXPnjDHKwaBl1aLFtQky",
+        "focus": 0.43091298903243463,
+        "gap": 5
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "4ZXPnjDHKwaBl1aLFtQky",
+      "type": "rectangle",
+      "x": 1775,
+      "y": 317.40000915527344,
+      "width": 293.60003662109375,
+      "height": 528.0000762939453,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aS",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1242919833,
+      "version": 120,
+      "versionNonce": 476649081,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "A1O1fz-4212znBeke14FF",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "oZMkHPezL6pd-lnLqaPvG"
+        },
+        {
+          "id": "Hlp3duAjPx3eY8220jjrx",
+          "type": "arrow"
+        },
+        {
+          "id": "stuha1y0wXnmCO9qXNDxr",
+          "type": "arrow"
+        },
+        {
+          "id": "dH8J_S3_kK5QL1SVamhqV",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766365334252,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "oZMkHPezL6pd-lnLqaPvG",
+      "type": "text",
+      "x": 1780.3601379394531,
+      "y": 331.4000473022461,
+      "width": 282.8797607421875,
+      "height": 500,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aSV",
+      "roundness": null,
+      "seed": 1843381945,
+      "version": 366,
+      "versionNonce": 1597690617,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766365144630,
+      "link": null,
+      "locked": false,
+      "text": "CRUD Operations with help\nof Entity Manager ( an JPA\ncomponent):\n\n1. Create/ Save object in DB\n->\nEnitityManager.persists(obj1)\n\n2.Read ->\nEntityManger.CreateQuery(\"..\n.\",<classname>)\n\n3.Update -> 2 methods : A.\nFind,Setter,merge B.\nCreateQuery,executeUpdate.\n\n4.Delete -> 2 methods:\nA.find,remove\nB.CreateQuery,executeUpdat\ne.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "4ZXPnjDHKwaBl1aLFtQky",
+      "originalText": "CRUD Operations with help of Entity Manager ( an JPA component):\n\n1. Create/ Save object in DB -> EnitityManager.persists(obj1)\n\n2.Read -> EntityManger.CreateQuery(\"...\",<classname>)\n\n3.Update -> 2 methods : A. Find,Setter,merge B. CreateQuery,executeUpdate.\n\n4.Delete -> 2 methods: A.find,remove B.CreateQuery,executeUpdate.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Hlp3duAjPx3eY8220jjrx",
+      "type": "arrow",
+      "x": 1762.4000244140625,
+      "y": 629.3999938964844,
+      "width": 165.60000610351562,
+      "height": 107.2000732421875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aU",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 383461561,
+      "version": 104,
+      "versionNonce": 2036665367,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766365165783,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -165.60000610351562,
+          107.2000732421875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "4ZXPnjDHKwaBl1aLFtQky",
+        "focus": 0.15371021886748384,
+        "gap": 12.5999755859375
+      },
+      "endBinding": {
+        "elementId": "TdvMMOC9QW4ljGwgJKfje",
+        "focus": -0.36045727929208476,
+        "gap": 1
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "TdvMMOC9QW4ljGwgJKfje",
+      "type": "rectangle",
+      "x": 1371.2000122070312,
+      "y": 736.6000061035156,
+      "width": 322.4000244140625,
+      "height": 248.00009155273438,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aV",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1670940697,
+      "version": 92,
+      "versionNonce": 63963801,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Hlp3duAjPx3eY8220jjrx",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "x7WnL_mYmG-QbQLBUH0z6"
+        }
+      ],
+      "updated": 1766365166083,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "x7WnL_mYmG-QbQLBUH0z6",
+      "type": "text",
+      "x": 1378.8201293945312,
+      "y": 823.1000518798828,
+      "width": 307.1597900390625,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aW",
+      "roundness": null,
+      "seed": 193213015,
+      "version": 99,
+      "versionNonce": 1345898935,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766365225676,
+      "link": null,
+      "locked": false,
+      "text": "Named Parameter -> for custom\nvalue => ':' prefix and then\nsetParameter(,<value>)",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "TdvMMOC9QW4ljGwgJKfje",
+      "originalText": "Named Parameter -> for custom value => ':' prefix and then setParameter(,<value>)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "stuha1y0wXnmCO9qXNDxr",
+      "type": "arrow",
+      "x": 1876.9399093609686,
+      "y": 851.7972090706188,
+      "width": 19.55753660737537,
+      "height": 148.9382163693915,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aX",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 877498329,
+      "version": 126,
+      "versionNonce": 1214167575,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766365284782,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          19.55753660737537,
+          148.9382163693915
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "4ZXPnjDHKwaBl1aLFtQky",
+        "focus": 0.44287356427366115,
+        "gap": 6.3971236214000555
+      },
+      "endBinding": {
+        "elementId": "8TdvZXYbTE8c9Es4kzxLP",
+        "focus": -0.26056566078710425,
+        "gap": 1.5044612093840897
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "8TdvZXYbTE8c9Es4kzxLP",
+      "type": "rectangle",
+      "x": 1804.7274356010219,
+      "y": 1002.2398866493944,
+      "width": 291.8588748478826,
+      "height": 192.5667879909487,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aY",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1920377625,
+      "version": 100,
+      "versionNonce": 621428087,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "stuha1y0wXnmCO9qXNDxr",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "SsoTzPNVBejd7ypkTuKf1"
+        }
+      ],
+      "updated": 1766365289287,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "SsoTzPNVBejd7ypkTuKf1",
+      "type": "text",
+      "x": 1818.6669590845336,
+      "y": 1061.0232806448687,
+      "width": 263.9798278808594,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aZ",
+      "roundness": null,
+      "seed": 1277932697,
+      "version": 64,
+      "versionNonce": 1784704153,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766365329180,
+      "link": null,
+      "locked": false,
+      "text": "Create DB table from Java\ncode, but it is not\nrecommended.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "8TdvZXYbTE8c9Es4kzxLP",
+      "originalText": "Create DB table from Java code, but it is not recommended.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "dH8J_S3_kK5QL1SVamhqV",
+      "type": "arrow",
+      "x": 2076.510417948696,
+      "y": 511.1278864999864,
+      "width": 118.63177422015542,
+      "height": 37.9931815301195,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aa",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 727636569,
+      "version": 81,
+      "versionNonce": 1886643063,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766365343136,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          118.63177422015542,
+          37.9931815301195
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "4ZXPnjDHKwaBl1aLFtQky",
+        "focus": -0.38525523600239064,
+        "gap": 7.910381327602408
+      },
+      "endBinding": {
+        "elementId": "4q8_zuOso03K7xsXRoElN",
+        "focus": 0.4885500421794934,
+        "gap": 4.9208662942775225
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "4q8_zuOso03K7xsXRoElN",
+      "type": "rectangle",
+      "x": 2177.3086920865594,
+      "y": 552.2225643093241,
+      "width": 223.30684476188935,
+      "height": 260,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ab",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1178672823,
+      "version": 79,
+      "versionNonce": 688923991,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "dH8J_S3_kK5QL1SVamhqV",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "8hNJoS7bL4y6fSJ0X6LCw"
+        }
+      ],
+      "updated": 1766365438088,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "8hNJoS7bL4y6fSJ0X6LCw",
+      "type": "text",
+      "x": 2184.9121724509023,
+      "y": 557.2225643093241,
+      "width": 208.09988403320312,
+      "height": 250,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ac",
+      "roundness": null,
+      "seed": 1502392759,
+      "version": 181,
+      "versionNonce": 435372503,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766365438602,
+      "link": null,
+      "locked": false,
+      "text": "JPA QL ( Jakarta\nPersistence API\nQuery Language):\n\n1. Similar to SQL\n2. Only use the\nEnitity Class name\nand field name for\nthe Table and Column\nname.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "4q8_zuOso03K7xsXRoElN",
+      "originalText": "JPA QL ( Jakarta Persistence API Query Language):\n\n1. Similar to SQL\n2. Only use the Enitity Class name and field name for the Table and Column name.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

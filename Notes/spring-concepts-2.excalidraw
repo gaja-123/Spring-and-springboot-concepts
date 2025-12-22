@@ -1,0 +1,1828 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "lhDb_P_XE6LaTdItkgdOj",
+      "type": "rectangle",
+      "x": 260.8000183105469,
+      "y": 144,
+      "width": 240,
+      "height": 385,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1145643198,
+      "version": 102,
+      "versionNonce": 114833698,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "dyOHAtr-HNC7oBKGdvIXm"
+        },
+        {
+          "id": "ych6V1kjtHTBT9lkWErS6",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766358993559,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "dyOHAtr-HNC7oBKGdvIXm",
+      "type": "text",
+      "x": 268.5601043701172,
+      "y": 149,
+      "width": 224.47982788085938,
+      "height": 375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1544135010,
+      "version": 263,
+      "versionNonce": 1971148542,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360283252,
+      "link": null,
+      "locked": false,
+      "text": "1.IoC\n2.DI\n3.Constructor injection\n4.Component\nScanning,Spring\nAppl.run.\n5.Setter injection\n6.Field injection\n7.@qualifier\n8.@primary\n9.@Lazy intialization\n10.Bean scope\n11.Bean life cycle\n12. Java config. bean\nv.s component scanning",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "lhDb_P_XE6LaTdItkgdOj",
+      "originalText": "1.IoC\n2.DI\n3.Constructor injection\n4.Component Scanning,Spring Appl.run.\n5.Setter injection\n6.Field injection\n7.@qualifier\n8.@primary\n9.@Lazy intialization\n10.Bean scope\n11.Bean life cycle\n12. Java config. bean v.s component scanning",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "NbrK-1veEIp87txfOkugs",
+      "type": "rectangle",
+      "x": 631,
+      "y": 164,
+      "width": 239.2000122070313,
+      "height": 213.60000610351562,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 489185122,
+      "version": 144,
+      "versionNonce": 1404061282,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ych6V1kjtHTBT9lkWErS6",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "74cGu5oJVigFWIWLZQkDI"
+        },
+        {
+          "id": "oWh-pnxhpBkqfhXdnFu8s",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766359066970,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "74cGu5oJVigFWIWLZQkDI",
+      "type": "text",
+      "x": 637.0300903320312,
+      "y": 170.8000030517578,
+      "width": 227.13983154296875,
+      "height": 200,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2V",
+      "roundness": null,
+      "seed": 840233726,
+      "version": 154,
+      "versionNonce": 102384738,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359071377,
+      "link": null,
+      "locked": false,
+      "text": "IoC ( Inversion of\nControl )[what] :\nprinciple of object\ncreation and manage by\nthe Spring container ,\nand not developer\n\nwhy? loose coupling",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "NbrK-1veEIp87txfOkugs",
+      "originalText": "IoC ( Inversion of Control )[what] :\nprinciple of object creation and manage by the Spring container , and not developer\n\nwhy? loose coupling",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "ych6V1kjtHTBT9lkWErS6",
+      "type": "arrow",
+      "x": 506.20001220703125,
+      "y": 300,
+      "width": 123.19998168945312,
+      "height": 10.399993896484375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1170257918,
+      "version": 78,
+      "versionNonce": 1131988194,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766358993559,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          123.19998168945312,
+          -10.399993896484375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "lhDb_P_XE6LaTdItkgdOj",
+        "focus": -0.1278897894958789,
+        "gap": 5.399993896484375
+      },
+      "endBinding": {
+        "elementId": "NbrK-1veEIp87txfOkugs",
+        "focus": -0.07330302252365928,
+        "gap": 1.600006103515625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "oWh-pnxhpBkqfhXdnFu8s",
+      "type": "arrow",
+      "x": 707.8000183105469,
+      "y": 381.6000061035156,
+      "width": 35.999969482421875,
+      "height": 97.60006713867188,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 281575550,
+      "version": 97,
+      "versionNonce": 704677182,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359080134,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          35.999969482421875,
+          97.60006713867188
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "NbrK-1veEIp87txfOkugs",
+        "focus": 0.526240612621332,
+        "gap": 4
+      },
+      "endBinding": {
+        "elementId": "GbAB82MsW4StddnnI6vKX",
+        "focus": 0.1532851730409794,
+        "gap": 7.199920654296875
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "GbAB82MsW4StddnnI6vKX",
+      "type": "rectangle",
+      "x": 637.3999938964844,
+      "y": 486.3999938964844,
+      "width": 234.39999389648438,
+      "height": 560,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2018247522,
+      "version": 90,
+      "versionNonce": 1607556862,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "oWh-pnxhpBkqfhXdnFu8s",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "t4soFfavzzgonyCS58YQO"
+        },
+        {
+          "id": "cOmgz9o0LZN1BmjfJmx3B",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766359251374,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "t4soFfavzzgonyCS58YQO",
+      "type": "text",
+      "x": 644.3100738525391,
+      "y": 491.3999938964844,
+      "width": 220.579833984375,
+      "height": 550,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5V",
+      "roundness": null,
+      "seed": 1685762978,
+      "version": 350,
+      "versionNonce": 1745068770,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359244514,
+      "link": null,
+      "locked": false,
+      "text": "Dependency Injection\n[ how of IoC]:\n\nClient\n[DemoContreoller]dele\ngates the\nresponsiblity of\ndependecy[coach (\ninterface) -> cricket\ncoach,Baseball coach [\nimplemetation]\ncreation and mange to\nthe object[ spring\ncontainer]\n\n\nhow? a.Constructor\ninjection b.Setter\nInjection c.Field level\ninjection\n\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "GbAB82MsW4StddnnI6vKX",
+      "originalText": "Dependency Injection [ how of IoC]:\n\nClient [DemoContreoller]delegates the responsiblity of dependecy[coach ( interface) -> cricket coach,Baseball coach [ implemetation]  creation and mange to the object[ spring container]\n\n\nhow? a.Constructor injection b.Setter Injection c.Field level injection\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "cOmgz9o0LZN1BmjfJmx3B",
+      "type": "arrow",
+      "x": 870.2000122070312,
+      "y": 488.79998779296875,
+      "width": 107.2000732421875,
+      "height": 186.39996337890625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1220399714,
+      "version": 95,
+      "versionNonce": 1586388002,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359260818,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          107.2000732421875,
+          -186.39996337890625
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "GbAB82MsW4StddnnI6vKX",
+        "focus": -0.15832181741528853,
+        "gap": 8.490454274045693
+      },
+      "endBinding": {
+        "elementId": "dHVKQwOurrMYAtQMgMXqe",
+        "focus": 0.5122303933567366,
+        "gap": 7.781649430273358
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "dHVKQwOurrMYAtQMgMXqe",
+      "type": "ellipse",
+      "x": 975,
+      "y": 139.1999969482422,
+      "width": 260.79998779296875,
+      "height": 580,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2124237730,
+      "version": 113,
+      "versionNonce": 697021666,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "cOmgz9o0LZN1BmjfJmx3B",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "-uDgrlWL59KRWx4yomxS-"
+        },
+        {
+          "id": "m7fROzqLNzw1j4yD7wBSL",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766359384355,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "-uDgrlWL59KRWx4yomxS-",
+      "type": "text",
+      "x": 1018.6733535964747,
+      "y": 229.1390304041434,
+      "width": 173.0398406982422,
+      "height": 400,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9",
+      "roundness": null,
+      "seed": 5979042,
+      "version": 276,
+      "versionNonce": 1432082686,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359373560,
+      "link": null,
+      "locked": false,
+      "text": "Spring contianer :\n\n1.IoC[ object\ncreation and\nmanage by spring]\n2.DI [inject\nobject's\n(DemoController)\ndependency (e.g.\nCricketCoach)\n\n* COnfig. by\na.XML b. Java\nSource code\nc.Java\nAnnotation*",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "dHVKQwOurrMYAtQMgMXqe",
+      "originalText": "Spring contianer :\n\n1.IoC[ object creation and manage by spring]\n2.DI [inject object's (DemoController) dependency (e.g. CricketCoach)\n\n* COnfig. by a.XML b. Java Source code c.Java Annotation*",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "m7fROzqLNzw1j4yD7wBSL",
+      "type": "arrow",
+      "x": 1233.4000244140625,
+      "y": 322.6000061035156,
+      "width": 111.199951171875,
+      "height": 36,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1666888098,
+      "version": 89,
+      "versionNonce": 1176727998,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359398092,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          111.199951171875,
+          -36
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "dHVKQwOurrMYAtQMgMXqe",
+        "focus": -0.1961408976868372,
+        "gap": 6.626838054858416
+      },
+      "endBinding": {
+        "elementId": "JxQ4_nV5sHjUShfGZqNnT",
+        "focus": 0.23980791607348162,
+        "gap": 9.4000244140625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "JxQ4_nV5sHjUShfGZqNnT",
+      "type": "rectangle",
+      "x": 1354,
+      "y": 178.59999084472656,
+      "width": 180.800048828125,
+      "height": 217.60000610351562,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aB",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2036402814,
+      "version": 101,
+      "versionNonce": 706644130,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "m7fROzqLNzw1j4yD7wBSL",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "Hlf2RjZ-od3Qpf_PiWde_"
+        },
+        {
+          "id": "FGGhOfn3CmX67NEuIK7H_",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766359474311,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "Hlf2RjZ-od3Qpf_PiWde_",
+      "type": "text",
+      "x": 1371.9900665283203,
+      "y": 187.39999389648438,
+      "width": 144.81991577148438,
+      "height": 200,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aC",
+      "roundness": null,
+      "seed": 316971582,
+      "version": 132,
+      "versionNonce": 775333054,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359469172,
+      "link": null,
+      "locked": false,
+      "text": "@Autowired\nAnnotation ->\n\n mentions that\nhere spring\nAutomatically\ninjects the\ndependencies.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "JxQ4_nV5sHjUShfGZqNnT",
+      "originalText": "@Autowired Annotation ->\n\n mentions that here spring Automatically injects the dependencies.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "FGGhOfn3CmX67NEuIK7H_",
+      "type": "arrow",
+      "x": 1406.7999877929688,
+      "y": 399.6000061035156,
+      "width": 14.39996337890625,
+      "height": 172.80001831054688,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aD",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1611074878,
+      "version": 69,
+      "versionNonce": 46117310,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359486386,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -14.39996337890625,
+          172.80001831054688
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "JxQ4_nV5sHjUShfGZqNnT",
+        "focus": 0.2840153504185359,
+        "gap": 3.4000091552734375
+      },
+      "endBinding": {
+        "elementId": "7Ka3myENA79ESVZw8tnJo",
+        "focus": -0.20721127531247224,
+        "gap": 2.39996337890625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "7Ka3myENA79ESVZw8tnJo",
+      "type": "rectangle",
+      "x": 1267.6000366210938,
+      "y": 574.7999877929688,
+      "width": 296.00012207031244,
+      "height": 385,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aE",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 127093438,
+      "version": 77,
+      "versionNonce": 853496830,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "FGGhOfn3CmX67NEuIK7H_",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "l5L_bhcEpCk7EuNFaDZ0f"
+        },
+        {
+          "id": "cVPIDUQ0_k4st6QrGOcsB",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766359658827,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "l5L_bhcEpCk7EuNFaDZ0f",
+      "type": "text",
+      "x": 1274.7402038574219,
+      "y": 579.7999877929688,
+      "width": 281.71978759765625,
+      "height": 375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aF",
+      "roundness": null,
+      "seed": 91281982,
+      "version": 377,
+      "versionNonce": 1648572990,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359647250,
+      "link": null,
+      "locked": false,
+      "text": "Component Scanning ->\n\n1. Default way -> Scan\ncurrent pkg. and all sub\nclasess recursively all Java\nClasses with Sterotype\nannotation like\n@Component,@Repository,@S\nervice => to mark this as\nBean and make available for\nDI.\n\n2.Explicity way -> Mention\nthe package explicitly under\nSpringBootApplication.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "7Ka3myENA79ESVZw8tnJo",
+      "originalText": "Component Scanning ->\n\n1. Default way -> Scan current pkg. and all sub clasess recursively all Java Classes with Sterotype annotation like @Component,@Repository,@Service => to mark this as Bean and make available for DI.\n\n2.Explicity way -> Mention the package explicitly under SpringBootApplication.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "cVPIDUQ0_k4st6QrGOcsB",
+      "type": "arrow",
+      "x": 1552,
+      "y": 579.6000061035156,
+      "width": 110.39999389648438,
+      "height": 230.39999389648438,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aG",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 655114942,
+      "version": 108,
+      "versionNonce": 798144766,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359667010,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          110.39999389648438,
+          -230.39999389648438
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "7Ka3myENA79ESVZw8tnJo",
+        "focus": 0.193391606992103,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "ljopHi4WG2Gyk-GXB5QMB",
+        "focus": 0.6302182903309049,
+        "gap": 4
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "ljopHi4WG2Gyk-GXB5QMB",
+      "type": "rectangle",
+      "x": 1666.3999938964844,
+      "y": 196.1999969482422,
+      "width": 248.00003051757812,
+      "height": 264.8000030517578,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aH",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1664937086,
+      "version": 91,
+      "versionNonce": 1420676862,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "cVPIDUQ0_k4st6QrGOcsB",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "WrTl-5XfXljqVsLIR4Nnz"
+        },
+        {
+          "id": "Qms2N33_JRWDhV5UVeZ0o",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766359736977,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "WrTl-5XfXljqVsLIR4Nnz",
+      "type": "text",
+      "x": 1671.7800979614258,
+      "y": 241.0999984741211,
+      "width": 237.2398223876953,
+      "height": 175,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aI",
+      "roundness": null,
+      "seed": 1008406910,
+      "version": 172,
+      "versionNonce": 1291922558,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359728886,
+      "link": null,
+      "locked": false,
+      "text": "1. Component -> Java\nClass that mark as bean\nand available for DI.\n\n2.Bean -> java object\ncreate and manage by\nthe spring container.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "ljopHi4WG2Gyk-GXB5QMB",
+      "originalText": "1. Component -> Java Class that mark as bean and available for DI.\n\n2.Bean -> java object create and manage by the spring container.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Qms2N33_JRWDhV5UVeZ0o",
+      "type": "arrow",
+      "x": 1764.8000183105469,
+      "y": 464.40000915527344,
+      "width": 7.199951171875,
+      "height": 115.19996643066406,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aJ",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1015329250,
+      "version": 103,
+      "versionNonce": 119945534,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359746431,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -7.199951171875,
+          115.19996643066406
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "ljopHi4WG2Gyk-GXB5QMB",
+        "focus": 0.1293710090736499,
+        "gap": 3.4000091552734375
+      },
+      "endBinding": {
+        "elementId": "P2yrU8kueWC-VqdOsdGXV",
+        "focus": -0.08428241388559295,
+        "gap": 3.199981689453125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "P2yrU8kueWC-VqdOsdGXV",
+      "type": "rectangle",
+      "x": 1615.1999816894531,
+      "y": 576.3999938964844,
+      "width": 294.4000244140625,
+      "height": 385,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aK",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2100157346,
+      "version": 128,
+      "versionNonce": 1754366462,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Qms2N33_JRWDhV5UVeZ0o",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "T40mcDKmNoPdMQj8Jdw63"
+        },
+        {
+          "id": "t1aW7bExotJk3hSz_9QGb",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766360006806,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "T40mcDKmNoPdMQj8Jdw63",
+      "type": "text",
+      "x": 1628.3600769042969,
+      "y": 581.3999938964844,
+      "width": 268.079833984375,
+      "height": 375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aL",
+      "roundness": null,
+      "seed": 1081835966,
+      "version": 368,
+      "versionNonce": 276285182,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766359994131,
+      "link": null,
+      "locked": false,
+      "text": "1.Constructor injection ->\nfor required dependencies [\n@Autowired + Constructor]\n\n2.Setter Injection -> for\noptional dependencies ->\nSetter name can be\nanything[@Autowired +\nSetter] \n\n3.Field Level injection ->\n[@Autowired over the filed\ncan be private also ] ( this\nis not recommended , as\ntesting is difficult)",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "P2yrU8kueWC-VqdOsdGXV",
+      "originalText": "1.Constructor injection -> for required dependencies [ @Autowired + Constructor]\n\n2.Setter Injection -> for optional dependencies -> Setter name can be anything[@Autowired + Setter] \n\n3.Field Level injection -> [@Autowired over the filed can be private also ] ( this is not recommended , as testing is difficult)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "t1aW7bExotJk3hSz_9QGb",
+      "type": "arrow",
+      "x": 1905.2000122070312,
+      "y": 589.8000183105469,
+      "width": 136,
+      "height": 219.199951171875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aM",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1972674430,
+      "version": 117,
+      "versionNonce": 945201918,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360055785,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          136,
+          -219.199951171875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "P2yrU8kueWC-VqdOsdGXV",
+        "focus": 0.11881279099181073,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "LpnkO7xv4frHTOoGwpWRl",
+        "focus": 0.5992338510850536,
+        "gap": 4.199981689453125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "LpnkO7xv4frHTOoGwpWRl",
+      "type": "rectangle",
+      "x": 2045.3999938964844,
+      "y": 211.40000915527344,
+      "width": 317.6000061035156,
+      "height": 410,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aN",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1839176382,
+      "version": 66,
+      "versionNonce": 618855614,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "t1aW7bExotJk3hSz_9QGb",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "QzORdhAPsTSEIn5uvh8hg"
+        },
+        {
+          "id": "TmEEiPwB2FaDr5yo8Zn0F",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766360258114,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "QzORdhAPsTSEIn5uvh8hg",
+      "type": "text",
+      "x": 2061.570114135742,
+      "y": 216.40000915527344,
+      "width": 285.259765625,
+      "height": 400,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aO",
+      "roundness": null,
+      "seed": 122258274,
+      "version": 425,
+      "versionNonce": 1341462370,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360252342,
+      "link": null,
+      "locked": false,
+      "text": "1. @Qualifer + BeanID (\nclassname but first letter is\nsmall) -> to dependency\ninjection of specific\nimplementation of a interface\namong many.\n\n2. @Primary -> make that\nimplementation of a interface\nas the default , if not\nprovided @ Qualifer. But only\none implementation is allowed\nas @Primary.\n\n3. @Qualifer ( specific) and\n@Primary (Default)",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "LpnkO7xv4frHTOoGwpWRl",
+      "originalText": "1. @Qualifer + BeanID ( classname but first letter is small) -> to dependency injection of specific implementation of a interface among many.\n\n2. @Primary -> make that implementation of a interface as the default , if not provided @ Qualifer. But only one implementation is allowed as @Primary.\n\n3. @Qualifer ( specific) and @Primary (Default)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "TmEEiPwB2FaDr5yo8Zn0F",
+      "type": "arrow",
+      "x": 2159.800018310547,
+      "y": 625.8000183105469,
+      "width": 4.79998779296875,
+      "height": 99.19998168945312,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aP",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 154937058,
+      "version": 57,
+      "versionNonce": 1310883838,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360300827,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4.79998779296875,
+          99.19998168945312
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "LpnkO7xv4frHTOoGwpWRl",
+        "focus": 0.32321259096320076,
+        "gap": 4.4000091552734375
+      },
+      "endBinding": {
+        "elementId": "fi17TPCBKcyTeh1WLHWu2",
+        "focus": -0.014184607044446325,
+        "gap": 8
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "fi17TPCBKcyTeh1WLHWu2",
+      "type": "rectangle",
+      "x": 2005.2000427246094,
+      "y": 733,
+      "width": 335.9999694824219,
+      "height": 335,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aQ",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1651912574,
+      "version": 108,
+      "versionNonce": 1966414306,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "TmEEiPwB2FaDr5yo8Zn0F",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "-M9-uinlERbiRwmTUTd7Z"
+        },
+        {
+          "id": "jQUg2bcov8Xl8aZripVVq",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766360471465,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "-M9-uinlERbiRwmTUTd7Z",
+      "type": "text",
+      "x": 2014.0601043701172,
+      "y": 738,
+      "width": 318.27984619140625,
+      "height": 325,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aR",
+      "roundness": null,
+      "seed": 1352996990,
+      "version": 390,
+      "versionNonce": 2120913662,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360452975,
+      "link": null,
+      "locked": false,
+      "text": "@LazyIntialization V/s\nComponent Scanning ( w/o Lazy\nintialization)\n-> when component\nscanning(default) for all\nsterotype class for mark it as\nbean,create and initiate. But\nwith @LAzy intialization\nannotation over the component ,\nonly create,initate the bean if\nthere is any DI,externally\nmentioned for that\ncomponent/bean.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "fi17TPCBKcyTeh1WLHWu2",
+      "originalText": "@LazyIntialization V/s Component Scanning ( w/o Lazy intialization)\n-> when component scanning(default) for all sterotype class for mark it as bean,create and initiate. But with @LAzy intialization annotation over the component , only create,initate the bean if there is any DI,externally mentioned for that component/bean.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "jQUg2bcov8Xl8aZripVVq",
+      "type": "arrow",
+      "x": 2339,
+      "y": 744.2000122070312,
+      "width": 102.4000244140625,
+      "height": 286.3999938964844,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aS",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1178889086,
+      "version": 90,
+      "versionNonce": 2049996194,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360482540,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          102.4000244140625,
+          -286.3999938964844
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "fi17TPCBKcyTeh1WLHWu2",
+        "focus": 0.48232479998986094,
+        "gap": 2.641172166664781
+      },
+      "endBinding": {
+        "elementId": "oJqXDAugRL9u21E66lpwJ",
+        "focus": 0.6073960953906019,
+        "gap": 4.199981689453125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "oJqXDAugRL9u21E66lpwJ",
+      "type": "rectangle",
+      "x": 2445.6000061035156,
+      "y": 253.80001831054688,
+      "width": 251.19998168945312,
+      "height": 285,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aT",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1283921278,
+      "version": 129,
+      "versionNonce": 2010679166,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "jQUg2bcov8Xl8aZripVVq",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "-MeHAz7gt61e_EAZXSKcX"
+        },
+        {
+          "id": "CBADxxXenrL0mXX5_Is4V",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766360609202,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "-MeHAz7gt61e_EAZXSKcX",
+      "type": "text",
+      "x": 2457.630081176758,
+      "y": 258.8000183105469,
+      "width": 227.13983154296875,
+      "height": 275,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aU",
+      "roundness": null,
+      "seed": 577041698,
+      "version": 196,
+      "versionNonce": 1076973538,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360602869,
+      "link": null,
+      "locked": false,
+      "text": "Bean Scope -> 3 things\na. How long live b.How\nmany created c.How\nshared\n\n1.Singleton Bean-> only\none for an APP\n2.Prototype Bean->for\neach DI\n3.Session,Request\nbean,etc",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "oJqXDAugRL9u21E66lpwJ",
+      "originalText": "Bean Scope -> 3 things a. How long live b.How many created c.How shared\n\n1.Singleton Bean-> only one for an APP\n2.Prototype Bean->for each DI\n3.Session,Request bean,etc",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "CBADxxXenrL0mXX5_Is4V",
+      "type": "arrow",
+      "x": 2540,
+      "y": 544.6000061035156,
+      "width": 12.79998779296875,
+      "height": 117.60009765625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aV",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 153370466,
+      "version": 95,
+      "versionNonce": 1411431970,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360619907,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12.79998779296875,
+          117.60009765625
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "oJqXDAugRL9u21E66lpwJ",
+        "focus": 0.3354929296834441,
+        "gap": 5.79998779296875
+      },
+      "endBinding": {
+        "elementId": "SNZMH_J19qBxyE0f59ND4",
+        "focus": -0.09288830609445409,
+        "gap": 8.799896240234375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "SNZMH_J19qBxyE0f59ND4",
+      "type": "rectangle",
+      "x": 2403.199981689453,
+      "y": 671,
+      "width": 354.4001159667969,
+      "height": 385,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aW",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1920662306,
+      "version": 120,
+      "versionNonce": 1016735294,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "CBADxxXenrL0mXX5_Is4V",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "dlA8JRJRz3gSShwSb2K1S"
+        },
+        {
+          "id": "xnTWoi1saHLD5JQwNXymw",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766360766221,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "dlA8JRJRz3gSShwSb2K1S",
+      "type": "text",
+      "x": 2411.760208129883,
+      "y": 676,
+      "width": 337.2796630859375,
+      "height": 375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aWV",
+      "roundness": null,
+      "seed": 1889025186,
+      "version": 305,
+      "versionNonce": 1953748350,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360758809,
+      "link": null,
+      "locked": false,
+      "text": "Bean LifeCycle:( Resource,business\nlogic)\n\n1.Container Started\n2.Bean Instanzied\n3.DI done\n4.Internal Spring Processing\n5.Cusotm init method (\n@PostConstruct Annotation)\n5.Bean is ready for use\n6.Container is shutdown\n7.Custom destroy method\n(@PreDestroy)\n8.STOP\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "SNZMH_J19qBxyE0f59ND4",
+      "originalText": "Bean LifeCycle:( Resource,business logic)\n\n1.Container Started\n2.Bean Instanzied\n3.DI done\n4.Internal Spring Processing\n5.Cusotm init method ( @PostConstruct Annotation)\n5.Bean is ready for use\n6.Container is shutdown\n7.Custom destroy method (@PreDestroy)\n8.STOP\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "xnTWoi1saHLD5JQwNXymw",
+      "type": "arrow",
+      "x": 2747.3999938964844,
+      "y": 675.4000244140625,
+      "width": 146.40005493164062,
+      "height": 189.60000610351562,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aY",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1337921022,
+      "version": 92,
+      "versionNonce": 1924029630,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360774727,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          146.40005493164062,
+          -189.60000610351562
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "SNZMH_J19qBxyE0f59ND4",
+        "focus": 0.06677570138952112,
+        "gap": 1.3409714780280673
+      },
+      "endBinding": {
+        "elementId": "NNqLLNKou6mvrar-W3A3S",
+        "focus": 0.4700955950551417,
+        "gap": 3.199951171875
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "NNqLLNKou6mvrar-W3A3S",
+      "type": "rectangle",
+      "x": 2897,
+      "y": 299.40000915527344,
+      "width": 268,
+      "height": 385,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aZ",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1905798846,
+      "version": 57,
+      "versionNonce": 1254727458,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "xnTWoi1saHLD5JQwNXymw",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "LqWPGbudlspTtISPHbKkR"
+        },
+        {
+          "id": "71V-XGvLLqiIRDgnLB1qy",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766360953470,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "LqWPGbudlspTtISPHbKkR",
+      "type": "text",
+      "x": 2905.670082092285,
+      "y": 304.40000915527344,
+      "width": 250.6598358154297,
+      "height": 375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aZV",
+      "roundness": null,
+      "seed": 1872574014,
+      "version": 320,
+      "versionNonce": 1662160574,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360933698,
+      "link": null,
+      "locked": false,
+      "text": "java config. Bean V/s\n@Component:\n1. Java config. Bean ->\nfor 3rd party Class to be\navailable as a bean ->\nthen do DI.\n\n2.@Component -> For\nowncode/class to be\navailable as bean -> then\ndo DI.\n\nhow? @Configuration over\nclass,@Bean over\nmethod,@Autowired",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "NNqLLNKou6mvrar-W3A3S",
+      "originalText": "java config. Bean V/s @Component:\n1. Java config. Bean -> for 3rd party Class to be available as a bean -> then do DI.\n\n2.@Component -> For owncode/class to be available as bean -> then do DI.\n\nhow? @Configuration over class,@Bean over method,@Autowired",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "71V-XGvLLqiIRDgnLB1qy",
+      "type": "arrow",
+      "x": 3103.8202729785266,
+      "y": 705.7904591669414,
+      "width": 73.5202999267758,
+      "height": 151.49656875963387,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ab",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 175142718,
+      "version": 64,
+      "versionNonce": 1307901182,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766360964427,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          73.5202999267758,
+          151.49656875963387
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "NNqLLNKou6mvrar-W3A3S",
+        "focus": 0.13622156499947627,
+        "gap": 21.39045001166801
+      },
+      "endBinding": {
+        "elementId": "KSa5iSk_apj4ygP1vDzJ1",
+        "focus": -0.014975268131715668,
+        "gap": 6.683655903588942
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "KSa5iSk_apj4ygP1vDzJ1",
+      "type": "rectangle",
+      "x": 3028.071946105062,
+      "y": 863.9706838301643,
+      "width": 467.8574430225585,
+      "height": 316.3605343137417,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ac",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1975299134,
+      "version": 74,
+      "versionNonce": 159615074,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "71V-XGvLLqiIRDgnLB1qy",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "kdGN5nKTKTbXYOxOIjnno"
+        }
+      ],
+      "updated": 1766360972912,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "kdGN5nKTKTbXYOxOIjnno",
+      "type": "text",
+      "x": 3041.8308372940755,
+      "y": 909.6509509870351,
+      "width": 440.33966064453125,
+      "height": 225,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "acV",
+      "roundness": null,
+      "seed": 2013177470,
+      "version": 262,
+      "versionNonce": 376401918,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766361127783,
+      "link": null,
+      "locked": false,
+      "text": "1. @SpringBootApplication contains ->\n@EnableAutoconfig ( enable spring auto\nconfig.) @Component scan @ Configurationn (\nfor Extra 3rd party bean)\n\n2.SpringApplication.run ->1.Create Application\ncontext 2.Register all beans 3.Start\nembeeded server\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "KSa5iSk_apj4ygP1vDzJ1",
+      "originalText": "1. @SpringBootApplication contains -> @EnableAutoconfig ( enable spring auto config.) @Component scan @ Configurationn ( for Extra 3rd party bean)\n\n2.SpringApplication.run ->1.Create Application context 2.Register all beans 3.Start embeeded server\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

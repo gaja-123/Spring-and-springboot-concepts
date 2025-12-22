@@ -1,0 +1,890 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "ha8svr8Kh0Skv5BpVPECe",
+      "type": "rectangle",
+      "x": 263.20001220703125,
+      "y": 151.1999969482422,
+      "width": 368.79998779296875,
+      "height": 210.40000915527344,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2134562904,
+      "version": 66,
+      "versionNonce": 1022543448,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "gYzhCkyuHgocogoM1iYj2"
+        },
+        {
+          "id": "f1aT2fqee0tCILGWXXz_c",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766356020203,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "gYzhCkyuHgocogoM1iYj2",
+      "type": "text",
+      "x": 275.6901397705078,
+      "y": 181.4000015258789,
+      "width": 343.8197326660156,
+      "height": 150,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0V",
+      "roundness": null,
+      "seed": 541012264,
+      "version": 150,
+      "versionNonce": 1126720296,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356015256,
+      "link": null,
+      "locked": false,
+      "text": "Spring -> Java App code + Helper\nfunctions + Annotation\n\nSpring boot -> spring + Dependency\nmgmt ( Gradle/Maven) + Embeeded\nserver(tomcast)",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "ha8svr8Kh0Skv5BpVPECe",
+      "originalText": "Spring -> Java App code + Helper functions + Annotation\n\nSpring boot -> spring + Dependency mgmt ( Gradle/Maven) + Embeeded server(tomcast)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "f1aT2fqee0tCILGWXXz_c",
+      "type": "arrow",
+      "x": 420.7454088979757,
+      "y": 362.0970520540786,
+      "width": 3.7994972409108527,
+      "height": 77.84574498974956,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 838318376,
+      "version": 115,
+      "versionNonce": 567842600,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356114818,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -3.7994972409108527,
+          77.84574498974956
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "ha8svr8Kh0Skv5BpVPECe",
+        "focus": 0.11802792985557649,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "tEM-Y5kA211ThDnCk67-h",
+        "focus": -0.13852199657830158,
+        "gap": 2.4000244140625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "tEM-Y5kA211ThDnCk67-h",
+      "type": "rectangle",
+      "x": 305.6000061035156,
+      "y": 441.6000213623047,
+      "width": 246.4000244140625,
+      "height": 235,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 851297832,
+      "version": 209,
+      "versionNonce": 1977923624,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "h0YqbhoWjnXsg0tr7_xla"
+        },
+        {
+          "id": "f1aT2fqee0tCILGWXXz_c",
+          "type": "arrow"
+        },
+        {
+          "id": "nKSb-Cc4RrkehEeRA9Fji",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766356204122,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "h0YqbhoWjnXsg0tr7_xla",
+      "type": "text",
+      "x": 317.52010345458984,
+      "y": 446.6000213623047,
+      "width": 222.55982971191406,
+      "height": 225,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": null,
+      "seed": 450373720,
+      "version": 280,
+      "versionNonce": 2074500136,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356114818,
+      "link": null,
+      "locked": false,
+      "text": "Spring intializer ->\nprovides the \" Starter\nfiles for spring project\n)\n\nwhy? Predifned project\nstructure, Dependency\nmgmt(Gradle/Maven) +\nDepedndencies,etc",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "tEM-Y5kA211ThDnCk67-h",
+      "originalText": "Spring intializer -> provides the \" Starter files for spring project )\n\nwhy? Predifned project structure, Dependency mgmt(Gradle/Maven) + Depedndencies,etc",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "kgJQP9I6_hO_jepSMKT4a",
+      "type": "rectangle",
+      "x": 263.20001220703125,
+      "y": 750.6000061035156,
+      "width": 219.19998168945312,
+      "height": 360,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 220453208,
+      "version": 79,
+      "versionNonce": 1598924584,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "7AxczUjYEivI3WyURQVP3"
+        },
+        {
+          "id": "nKSb-Cc4RrkehEeRA9Fji",
+          "type": "arrow"
+        },
+        {
+          "id": "cTo13LemzTohrRNxLUbkW",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766356209056,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "7AxczUjYEivI3WyURQVP3",
+      "type": "text",
+      "x": 268.3200988769531,
+      "y": 755.6000061035156,
+      "width": 208.95980834960938,
+      "height": 350,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": null,
+      "seed": 75961384,
+      "version": 195,
+      "versionNonce": 1873362216,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356199138,
+      "link": null,
+      "locked": false,
+      "text": "Main things the\nproject structure :\n\n1. src/main/java ->\njava codes\n\n2.src/main/resource -\n>\nApplication.properties\nfile ( to config. the\nAPP)\n\n3.Src/test/java ->\nunit test codes",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "kgJQP9I6_hO_jepSMKT4a",
+      "originalText": "Main things the project structure :\n\n1. src/main/java -> java codes\n\n2.src/main/resource -> Application.properties file ( to config. the APP)\n\n3.Src/test/java -> unit test codes",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "nKSb-Cc4RrkehEeRA9Fji",
+      "type": "arrow",
+      "x": 368,
+      "y": 678.6000061035156,
+      "width": 16.79998779296875,
+      "height": 73.60000610351562,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 59380520,
+      "version": 61,
+      "versionNonce": 2079028008,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356204122,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -16.79998779296875,
+          73.60000610351562
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "tEM-Y5kA211ThDnCk67-h",
+        "focus": 0.22345504835902155,
+        "gap": 1.9999847412109375
+      },
+      "endBinding": {
+        "elementId": "kgJQP9I6_hO_jepSMKT4a",
+        "focus": -0.4135839929190012,
+        "gap": 1.600006103515625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "cTo13LemzTohrRNxLUbkW",
+      "type": "arrow",
+      "x": 491,
+      "y": 841.8000183105469,
+      "width": 239.2001953125,
+      "height": 513.5999908447266,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 693353816,
+      "version": 112,
+      "versionNonce": 119948328,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356230586,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          239.2001953125,
+          -513.5999908447266
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "kgJQP9I6_hO_jepSMKT4a",
+        "focus": 0.39726117569672204,
+        "gap": 8.600006103515625
+      },
+      "endBinding": {
+        "elementId": "SpeIzIi7T_62BPDxM4WYZ",
+        "focus": 0.6627882870824603,
+        "gap": 7.99981689453125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "SpeIzIi7T_62BPDxM4WYZ",
+      "type": "rectangle",
+      "x": 738.2000122070312,
+      "y": 172,
+      "width": 286.4000244140625,
+      "height": 285,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1229436200,
+      "version": 101,
+      "versionNonce": 504510040,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "cTo13LemzTohrRNxLUbkW",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "3f55kIDxjppB5M-Xyd-Xt"
+        },
+        {
+          "id": "FOYZhuwbaGI9w9FeesISG",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766356684075,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "3f55kIDxjppB5M-Xyd-Xt",
+      "type": "text",
+      "x": 744.0501251220703,
+      "y": 177,
+      "width": 274.6997985839844,
+      "height": 275,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9G",
+      "roundness": null,
+      "seed": 649157160,
+      "version": 210,
+      "versionNonce": 839431512,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356685240,
+      "link": null,
+      "locked": false,
+      "text": "POM file :(used by Build-\ndepdency mgmt tools like\nmaven and gradle)\n\n1. Project Meta Data\n\n2. Dependencies(\nGroupID,Artifact Id,Version\nGAV)\n\n3.Plugins",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "SpeIzIi7T_62BPDxM4WYZ",
+      "originalText": "POM file :(used by Build-depdency mgmt tools like maven and gradle)\n\n1. Project Meta Data\n\n2. Dependencies( GroupID,Artifact Id,Version GAV)\n\n3.Plugins",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "FOYZhuwbaGI9w9FeesISG",
+      "type": "arrow",
+      "x": 827.0000915527344,
+      "y": 448.0000305175781,
+      "width": 58.399932861328125,
+      "height": 32.799957275390625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aB",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2009604392,
+      "version": 151,
+      "versionNonce": 210026024,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356694009,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          58.399932861328125,
+          32.799957275390625
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "yBJxe-YmKkMz6Ft6-odyJ",
+        "focus": 0,
+        "gap": 31.199981689453125
+      },
+      "endBinding": {
+        "elementId": "yBJxe-YmKkMz6Ft6-odyJ",
+        "focus": 0.08636129572871769,
+        "gap": 1.5999755859375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "yBJxe-YmKkMz6Ft6-odyJ",
+      "type": "rectangle",
+      "x": 738.2000122070312,
+      "y": 479.20001220703125,
+      "width": 318.4000244140625,
+      "height": 161.5999755859375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aC",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 651575640,
+      "version": 83,
+      "versionNonce": 741182552,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "FOYZhuwbaGI9w9FeesISG",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "o3A9tcQQTeaKZhOIEQvx4"
+        },
+        {
+          "id": "IAXP8pte2rGlalRQqlvAt",
+          "type": "arrow"
+        },
+        {
+          "id": "q2tWnhU2hvqiuEYLMm9De",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1766356649094,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "o3A9tcQQTeaKZhOIEQvx4",
+      "type": "text",
+      "x": 745.2301330566406,
+      "y": 497.5,
+      "width": 304.33978271484375,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aD",
+      "roundness": null,
+      "seed": 738772264,
+      "version": 225,
+      "versionNonce": 990085160,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356378593,
+      "link": null,
+      "locked": false,
+      "text": "Spring boot Starter.xyz file :\nOne type of depedncy file that\nconsists of all the curated list\nof compitble dependencies for\nproject working.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "yBJxe-YmKkMz6Ft6-odyJ",
+      "originalText": "Spring boot Starter.xyz file :\nOne type of depedncy file that consists of all the curated list of compitble dependencies for project working.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "IAXP8pte2rGlalRQqlvAt",
+      "type": "arrow",
+      "x": 812.6000366210938,
+      "y": 643.4000091552734,
+      "width": 28.800018310546875,
+      "height": 148.8000030517578,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aE",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 963614248,
+      "version": 127,
+      "versionNonce": 472091736,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356401722,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -28.800018310546875,
+          148.8000030517578
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "yBJxe-YmKkMz6Ft6-odyJ",
+        "focus": 0.3926935464561543,
+        "gap": 2.6000213623046875
+      },
+      "endBinding": {
+        "elementId": "CSFUevfFQDZ5kjes7g1ju",
+        "focus": -0.28239015208815443,
+        "gap": 11.999969482421875
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "CSFUevfFQDZ5kjes7g1ju",
+      "type": "rectangle",
+      "x": 641.3999938964844,
+      "y": 804.1999816894531,
+      "width": 347.1999816894531,
+      "height": 385,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aF",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1197061464,
+      "version": 188,
+      "versionNonce": 1989112104,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "IAXP8pte2rGlalRQqlvAt",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "GsoR9lNpm7d0FvX30Eepa"
+        }
+      ],
+      "updated": 1766356615659,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "GsoR9lNpm7d0FvX30Eepa",
+      "type": "text",
+      "x": 647.2000885009766,
+      "y": 809.1999816894531,
+      "width": 335.59979248046875,
+      "height": 375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aFV",
+      "roundness": null,
+      "seed": 900899624,
+      "version": 387,
+      "versionNonce": 469291304,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356635705,
+      "link": null,
+      "locked": false,
+      "text": "Application.properties files :\n\n1.Default file to load properties\nfor the Spring boot project.\n\n2. Two key things : a. Spring boot\nproperties b.Custom properties\n\n3. Spring boot properities ->\nbroadly into 8 categories  a.Core\nb.Web c.Security d.Data,etc\n\n4.Custom application properties ->\nNo hard code -> use the property\ninjection. @value(${<prop.name>})",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "CSFUevfFQDZ5kjes7g1ju",
+      "originalText": "Application.properties files :\n\n1.Default file to load properties for the Spring boot project.\n\n2. Two key things : a. Spring boot properties b.Custom properties\n\n3. Spring boot properities -> broadly into 8 categories  a.Core b.Web c.Security d.Data,etc\n\n4.Custom application properties -> No hard code -> use the property injection. @value(${<prop.name>})",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "q2tWnhU2hvqiuEYLMm9De",
+      "type": "arrow",
+      "x": 1054.3999938964844,
+      "y": 500,
+      "width": 117.60012817382812,
+      "height": 117.59999084472656,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aH",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 671393576,
+      "version": 71,
+      "versionNonce": 236837928,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356657140,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          117.60012817382812,
+          -117.59999084472656
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "yBJxe-YmKkMz6Ft6-odyJ",
+        "focus": 0.4041660886721273,
+        "gap": 1
+      },
+      "endBinding": {
+        "elementId": "szhh2I0Q5on6Ks9IW0K7-",
+        "focus": 0.3361875422247629,
+        "gap": 1.600006103515625
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "szhh2I0Q5on6Ks9IW0K7-",
+      "type": "rectangle",
+      "x": 1146.3999938964844,
+      "y": 284,
+      "width": 276.8001403808594,
+      "height": 585,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aI",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1599545384,
+      "version": 86,
+      "versionNonce": 383096920,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "q2tWnhU2hvqiuEYLMm9De",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "V7Gry1kVspQx45yGlUOW2"
+        }
+      ],
+      "updated": 1766356858645,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "V7Gry1kVspQx45yGlUOW2",
+      "type": "text",
+      "x": 1152.2601470947266,
+      "y": 289,
+      "width": 265.079833984375,
+      "height": 575,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aIV",
+      "roundness": null,
+      "seed": 1809015384,
+      "version": 494,
+      "versionNonce": 1133742680,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1766356861441,
+      "link": null,
+      "locked": false,
+      "text": "Other depedncies:\n\n1. Spring boot starter\nparent -> special type that\nprovides the default\nthings like version for all\nspring boot starter files.\n\n2.Spring boot -dev tool ->\nto rebuild and run\nautomatically the projects.\n\n3.Spring actuators ->\ndepedncy that provides\nendpoints for  the\na.monitor b.manage tools\nfor the project\n(/health.,/info,/bean,etc)\n\n4.Spring actuator security\n-> the have login page for\nthe accessing the\nendpoints for monitor.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "szhh2I0Q5on6Ks9IW0K7-",
+      "originalText": "Other depedncies:\n\n1. Spring boot starter parent -> special type that provides the default things like version for all spring boot starter files.\n\n2.Spring boot -dev tool -> to rebuild and run automatically the projects.\n\n3.Spring actuators -> depedncy that provides endpoints for  the a.monitor b.manage tools for the project (/health.,/info,/bean,etc)\n\n4.Spring actuator security -> the have login page for the accessing the endpoints for monitor.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
